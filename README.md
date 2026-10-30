@@ -67,11 +67,11 @@ En este proyecto académico realizado en equipo, mis principales responsabilidad
 # Capturas de pantalla
 
 
-![Formulario Login](imagenes/image.png)   
-![Formulario Registrar Socico](imagenes/image-1.png) 
-![Formulario Renovación de Membresías](imagenes/image-2.png)
-![Formulario Marcación de Ingreso de Socios](imagenes/image-3.png)
-![Formulario Distribución de Casilleros por Zonas](imagenes/image-4.png)
+![Formulario Login](Imagenes/image.png)   
+![Formulario Registrar Socico](Imagenes/image-1.png) 
+![Formulario Renovación de Membresías](Imagenes/image-2.png)
+![Formulario Marcación de Ingreso de Socios](Imagenes/image-3.png)
+![Formulario Distribución de Casilleros por Zonas](Imagenes/image-4.png)
 
 
 # Objetivo del proyecto
